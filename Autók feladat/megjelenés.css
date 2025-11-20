@@ -1,0 +1,9 @@
+figure img{
+    width: 200px;
+    height: auto;
+}
+
+#karl, picture img, #henry picture image{
+    width: 100px;
+    height: auto;
+}
